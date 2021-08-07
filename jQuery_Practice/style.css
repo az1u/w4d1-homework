@@ -1,0 +1,22 @@
+body{
+    background-color: azure;
+}
+.color1{
+height: 200px;
+width: 200px;
+background-color: firebrick;
+display:inline-block;
+}
+.color2{
+    height: 200px;
+    width: 200px;
+    background-color: ivory ;
+    display:inline-block;
+}
+ .color3{
+    height: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+    display:inline-block;
+}
+        
